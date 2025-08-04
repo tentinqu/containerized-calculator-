@@ -9,7 +9,7 @@ graph TD
     C --> D[45MB Final Image]
 ```
 
-
+![Calculator Demo](screenshots/3.png)
 ## Features
 - **Multi-stage Docker build** (JDK for compilation → JRE for runtime)
 - **Alpine Linux base image** (45MB vs 470MB default)
